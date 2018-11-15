@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/TopCorporations/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/TopCorporations/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/TopCorporations/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/TopCorporations/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to display series in several panes
 
 
